@@ -18,6 +18,7 @@ class Navbars extends Component {
         <NavDropdown.Item href="/board">Hats</NavDropdown.Item>
         <NavDropdown.Item href="/board">Jerseys</NavDropdown.Item>
       </NavDropdown>
+      <Nav.Link href="/forms">Contact Us</Nav.Link>
     </Nav>
     <Form inline>
       <FormControl type="text" placeholder="Search" className="mr-sm-2" />
